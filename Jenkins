@@ -1,7 +1,7 @@
 
 node{
     stage('git checkout'){
-        git 'https://github.com/VivianFernandes777/Staragileinsurance'
+        git 'https://github.com/VivianFernandes777/Staragileheath'
     }
    
     stage('build and package'){
