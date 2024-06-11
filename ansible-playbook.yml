@@ -18,4 +18,4 @@
     become_user : root
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 8090:8082 vivianfernandes777/staragilehealth:v1
+    command: docker run -itd -p 8090:8082 vivianfernandes777/staragileihealth:v1
